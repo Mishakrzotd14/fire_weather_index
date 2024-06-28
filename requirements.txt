@@ -1,0 +1,16 @@
+earthengine_api==0.1.397
+python-dotenv==1.0.1
+eemont==0.3.6
+GeoAlchemy2==0.15.1
+geopandas==0.13.2
+numpy==2.0.0
+protobuf==5.27.1
+python_dateutil==2.8.2
+psycopg2==2.9.6
+SQLAlchemy==2.0.18
+shapely==2.0.3
+earthengine-api~=0.1.397
+python-dateutil~=2.8.2
+ipython~=8.12.3
+traitlets~=5.14.3
+shapely~=2.0.4
